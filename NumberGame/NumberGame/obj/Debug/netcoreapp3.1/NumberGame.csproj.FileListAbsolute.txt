@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.exe
+C:\Users\Asus\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.deps.json
+C:\Users\Asus\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.runtimeconfig.json
+C:\Users\Asus\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.dll
+C:\Users\Asus\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.pdb
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.Form1.resources
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.AssemblyInfo.cs
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.dll
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.pdb
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.genruntimeconfig.cache
+C:\Users\Asus\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.Form2.resources
